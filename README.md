@@ -42,11 +42,11 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 [Bootstrap Number inputs prefix dollar sign:
 ](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-prefix-dollar-sign)
 
-[Bootstrap Number inputs icon:
-![Bootstrap 5 Avatar](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
+    [Bootstrap Number inputs icon:
+    ![Bootstrap 5 Avatar](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
 
-[Bootstrap Number inputs unremovable postfix:
-![Bootstrap 5 Avatar](/assets/unremovable-postfix.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-unremovable-sign)
+    [Bootstrap Number inputs unremovable postfix:
+    ![Bootstrap 5 Avatar](/assets/unremovable-postfix.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-unremovable-sign)
 
 ___
 
