@@ -42,10 +42,10 @@ Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/s
 [Bootstrap Number inputs prefix dollar sign:
 ](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-prefix-dollar-sign)
 
-    [Bootstrap Number inputs icon:
+[Bootstrap Number inputs icon:
 ![Bootstrap 5 Number Inputs](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
 
-    [Bootstrap Number inputs unremovable postfix:
+[Bootstrap Number inputs unremovable postfix:
 ![Bootstrap 5 Number Inputs](/assets/unremovable-postfix.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-unremovable-sign)
 
 ___
