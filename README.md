@@ -27,7 +27,7 @@ Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/s
 
 ## More examples
 
-[Bootstrap Number inputs static phone number:
+[Bootstrap Number inputs phone number:
 ![Bootstrap 5 Number Inputss](/assets/phone-number.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-phone-numer)
 
 [Bootstrap Number inputs minimum and maximum:
