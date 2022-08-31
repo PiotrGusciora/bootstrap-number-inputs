@@ -1,7 +1,7 @@
 
 Responsive Number Inputs built with Bootstrap 5. Input fields refer specifically to the number input fields, which are used to obtain data from the users.
 
-Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/standard/extended/number-Inputs) for detailed instructions & even more examples.
+Check out [Bootstrap Number Inputs Documentation](https://mdbootstrap.com/docs/standard/extended/number-inputs/) for detailed instructions & even more examples.
 
 ## Basic example
 
