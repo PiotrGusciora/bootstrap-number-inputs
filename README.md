@@ -40,7 +40,7 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 ![Bootstrap 5 Avatar](/assets/precision.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-precision)
 
 [Bootstrap Number inputs prefix dollar sign:
-(https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-prefix-dollar-sign)
+](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-prefix-dollar-sign)
 
 [Bootstrap Number inputs icon:
 ![Bootstrap 5 Avatar](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
