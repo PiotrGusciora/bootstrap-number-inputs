@@ -1,7 +1,7 @@
 
 Responsive Flash messages built with the latest Bootstrap 5. Flash messages provide contextual feedback informations for typical user actions with a handful of responsible and flexible messages boxes.
 
-Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standard/extended/flash-messages) for detailed instructions & even more examples.
+Check out [Bootstrap Flash messages Documentation](https://mdbootstrap.com/docs/standard/extended/flash-messages) for detailed instructions & even more examples.
 
 ## Basic example
 
@@ -28,25 +28,25 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 ## More examples
 
 [Bootstrap Number inputs static phone number:
-![Bootstrap 5 Avatar](/assets/phone-number.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-phone-numer)
+![Bootstrap 5 Flash messages](/assets/phone-number.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-phone-numer)
 
 [Bootstrap Number inputs minimum and maximum:
-![Bootstrap 5 Avatar](/assets/minimum-and-maximum.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-minimum-and-maximum)
+![Bootstrap 5 Flash messages](/assets/minimum-and-maximum.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-minimum-and-maximum)
 
 [Bootstrap Number inputs base value:
-![Bootstrap 5 Avatar](/assets/base-value.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-base-value)
+![Bootstrap 5 Flash messages](/assets/base-value.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-base-value)
 
 [Bootstrap Number inputs precision:
-![Bootstrap 5 Avatar](/assets/precision.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-precision)
+![Bootstrap 5 Flash messages](/assets/precision.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-precision)
 
 [Bootstrap Number inputs prefix dollar sign:
 ](https://mdbootstrap.com/docs/standard/extended/number-inputs/#section-prefix-dollar-sign)
 
 [Bootstrap Number inputs icon:
-![Bootstrap 5 Avatar](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
+![Bootstrap 5 Flash messages](/assets/icon.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-icon)
 
 [Bootstrap Number inputs unremovable postfix:
-![Bootstrap 5 Avatar](/assets/unremovable-postfix.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-unremovable-sign)
+![Bootstrap 5 Flash messages](/assets/unremovable-postfix.png)](https://mdbootstrap.com/docs/standard/extended/number-inputs/#subsection-unremovable-sign)
 
 ___
 
