@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-number-inputs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Number Inputs built with Bootstrap 5. Input fields refer specifically to the number input fields, which are used to obtain data from the users.",
   "main": "basic.html",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-number-inputs.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-number-inputs.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-number-inputs/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-number-inputs/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/number-inputs/"
 }
